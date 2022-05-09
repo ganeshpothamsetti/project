@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "name": "Product001",
+      "cost": 10,
+      "description": "This product is useful for daily need",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Product003",
+      "cost": 30,
+      "description": "This is healthy product"
+    },
+    {
+      "id": 7,
+      "name": "Product007",
+      "cost": 70
+    },
+    {
+      "id": 11,
+      "name": "Product011",
+      "cost": 110
+    },
+    {
+      "name": "Cashew",
+      "cost": "414",
+      "description": "500 gms",
+      "id": 13
+    },
+    {
+      "name": "Soda",
+      "cost": "13",
+      "description": "750ml",
+      "id": 14
+    },
+    {
+      "name": "Amul Milk Product",
+      "cost": "25",
+      "description": "500 ml",
+      "id": 15
+    },
+    {
+      "name": "WaterMilen",
+      "cost": "15",
+      "description": "1 kg = 15 rs",
+      "id": 17
+    },
+    {
+      "name": "lemon",
+      "cost": "5",
+      "description": "each 5",
+      "id": 18
+    }
+  ]
+}
